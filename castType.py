@@ -1,0 +1,9 @@
+a=10
+b='j'
+c=7.35
+d=float(a)
+e=str(b)
+f=int(c)
+print(d)
+print(e)
+print(f)

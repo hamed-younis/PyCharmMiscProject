@@ -1,0 +1,6 @@
+name = input()
+x = name.split(" ")
+print(name)
+print(len(name))
+print(x[0])
+print(x[1])
